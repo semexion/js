@@ -1,4 +1,4 @@
-var arr = [1, 3, 3, 1, 1, 3];
+var arr = [1, 3, 3, 1, 1, 3, 5];
 
 var result = arr.reduce(function (square, current, index) {
   let sq = 0;
